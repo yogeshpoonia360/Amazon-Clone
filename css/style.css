@@ -626,6 +626,7 @@ footer {
 
 .footer-copyright p a {
   color: #ff9900;
+  text-decoration: none;
 }
 
 /* End */
